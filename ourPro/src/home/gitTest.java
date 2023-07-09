@@ -6,6 +6,7 @@ public class gitTest {
 		
 		
 		System.out.println("깃테스트입니다.");
+		System.out.println("뭐지");
 		
 	}
 }
